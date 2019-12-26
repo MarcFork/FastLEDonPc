@@ -55,6 +55,7 @@ clean:
 	rm $(TARGET)
 
 print:
+	@echo "INC_DIR:\t $(INC_DIR)"
 	@echo "BUILD_ROOT:\t $(BUILD_ROOT)"
 	@echo "INCLUDES:\t $(INCLUDES)"
 	@echo "OBJECTS:\t $(OBJECTS)"
