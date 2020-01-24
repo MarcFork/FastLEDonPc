@@ -1,5 +1,10 @@
 # FastLED on PC
 
+## Obsolete
+
+This is replaced by the more up to date and more complete https://github.com/marcmerlin/ArduinoOnPc-FastLED-GFX-LEDMatrix
+
+
 ## What?
 
 With this software you can run an Arduino Sketch on your PC and is specifically designed to test code written for any of:
@@ -7,13 +12,13 @@ With this software you can run an Arduino Sketch on your PC and is specifically 
 - https://github.com/pixelmatix/SmartMatrix
 - https://github.com/adafruit/Adafruit-GFX-Library
 - https://github.com/FastLED/FastLED  
-- https://github.com/marcmerlin/LEDMatrix
+- https://github.com/marcmerlin/LEDMatrix  
 using SDL on Linux
 
 If you have run code that runs on any of:
 - https://github.com/marcmerlin/FastLED_NeoMatrix/
 - https://github.com/marcmerlin/SmartMatrix_GFX/
-- https://github.com/marcmerlin/FastLED_SPITFT_GFX (SSD1331, ILI9341, and ST7735 TFTs)
+- https://github.com/marcmerlin/FastLED_SPITFT_GFX (SSD1331, ILI9341, and ST7735 TFTs)  
 it can then run with this linux/SDL backend too.
 
 ![102_demo_snaps](https://user-images.githubusercontent.com/1369412/71480161-a982c800-27ac-11ea-8f0e-fb149b6a9ae2.jpg)
